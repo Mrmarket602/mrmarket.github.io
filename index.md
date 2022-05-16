@@ -24,12 +24,12 @@ Our beliefs, mindsets, and habits are the basis of everything we do. I'm not try
 
 ## How am I going to do? 
 There are only 6 simple ways to improve your financial literacy which I will introduce in the mobile app:
-•	Read financial newsletters
-•	Listen to financial podcasts
-•	Read personal finance books
-•	Use Social Media
-•	Start keeping a budget
-•	Talk to a financial professional 
+* Read financial newsletters
+*	Listen to financial podcasts
+*	Read personal finance books
+*	Use Social Media
+*	Start keeping a budget
+*	Talk to a financial professional 
 
 I have vision to add all those basic elements into the App and provide it to user free of costs. Yes, there will be no subscription for those basic elements. Imagine having all financial gears at one place which can help to make financial decision. 
 
@@ -42,6 +42,6 @@ Good technology and smart people are required for a good product. Savvy people a
 Everyone nowadays, from a taxi driver to a doctor, knows how to use social media, so why not use it for learning and developing strong mindsets?
 
 Perhaps one question will come in your mind: there are already Facebook, LinkedIn, and other social media platforms, and they all have finance groups and pages, so why Mr. Market?
-•	Yes, I agree, but where would you go if you want to eat local food from your city? To that local store that specializes in that meal or to restaurants that don't specialize in any one food and provide a variety of food?
-•	Secondly, have you ever gone on social media to look for something specific and found yourself in a completely new place? I believe that has always happened since social media covers a wide range of topics.
+*	Yes, I agree, but where would you go if you want to eat local food from your city? To that local store that specializes in that meal or to restaurants that don't specialize in any one food and provide a variety of food?
+*	Secondly, have you ever gone on social media to look for something specific and found yourself in a completely new place? I believe that has always happened since social media covers a wide range of topics.
 
