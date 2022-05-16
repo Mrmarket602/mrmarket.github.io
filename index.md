@@ -1,4 +1,3 @@
-# Mr. Market
 The world's first Finanical Social Network App 
 
 # Project story 
